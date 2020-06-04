@@ -19,3 +19,5 @@ Diabetic patients are known to be at high risk for retinopathy.
 Logistic regression is used for predicting the probability of a binary outcome. In our case, this would be the probability of having or not having diabetic retinopathy.
 
 We see that the model is less confident in its prediction with the interaction term than without (the prediction value is lower when including the interaction term). With the interaction term, the model has adjusted for the fact that the effect of high cholesterol becomes less important for older patients compared to younger patients.
+
+credits: coursera Ai in medicine course
